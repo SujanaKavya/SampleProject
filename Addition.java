@@ -12,7 +12,7 @@ y = sc.nextInt();
 sum = sum(x, y);  
 System.out.println("The sum of two numbers x and y is: " + sum);  
 }  
-//method that calculates the sum of 2 digits 
+//method that calculates the sum of 3 digits 
 public static int sum(int a, int b)  
 {  
 int sum = a + b;  
