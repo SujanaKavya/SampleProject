@@ -10,7 +10,7 @@ x = sc.nextInt();
 System.out.print("Enter the second number: ");  
 y = sc.nextInt();  
 sum3 = sum(x, y);  
-System.out.println("The sum of two numbers x and y is: " + sum3);  
+System.out.println("The sum of two numbers x, y,z & w11: " + sum3);  
 }  
 //method that calculates the sum of 3 digits 
 public static int sum(int a, int b)  
